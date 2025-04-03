@@ -2,7 +2,7 @@
 
 ## 📊 Profile Visitor Counter
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/Vermis1388/count.svg" />
 </p>
 
 ---
