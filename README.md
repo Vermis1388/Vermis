@@ -4,7 +4,7 @@
 
 ## 📊 Profile Visitor Counter
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
 </p>
 
 ---
@@ -18,12 +18,12 @@
 
 ### 🚀 My Discord Avatar
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/901162767803904070/YOUR_AVATAR_ID.png" width="150" height="150" alt="Discord Avatar">
+  <img src="https://cdn.discordapp.com/avatars/901162767803904070.png?size=512" width="150" height="150" alt="Discord Avatar">
 </p>
 
 ### 🎨 My Discord Banner
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/901162767803904070/YOUR_BANNER_ID.png?size=600" alt="Discord Banner">
+  <img src="https://cdn.discordapp.com/banners/901162767803904070.png?size=600" alt="Discord Banner">
 </p>
 
 ### 🔥 Discord Badges
